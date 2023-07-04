@@ -23,3 +23,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulgupta00&show_icons=true&locale=en" alt="rahulgupta00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgupta00&" alt="rahulgupta00" /></p>
+
+
+## Technologies That I Know
+
+Here are some of the technologies and tools I'm proficient in:
+
+- HTML5
+- CSS3
+- JavaScript
+- Python  
+- Bootstrap
+- Git
+
+I have hands-on experience with these technologies and have used them in various projects. I'm continuously learning and exploring new technologies to expand my skillset.
+
+If you have any questions about these technologies or need assistance with projects related to them, feel free to reach out. I'm always eager to collaborate and contribute to exciting development endeavors.
+
