@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
-<h3 align="center">A passionate Python and Web developer from India</h3>
+<h3 align="center">A passionate Python and Frontend development from India</h3>
 
-- 🔭 I’m currently working on **Virtual Voice Assistant**
+
 
 - 🌱 I’m currently learning **DJANGO, PYTHON**
 
