@@ -11,6 +11,8 @@
 - 👯 I’m looking to collaborate on **In PYHON and DJANGO**
 
 - 💬 Ask me about **PYTHON , HTML , CSS, DJANGO, JAVASCRIPT**
+- 
+- ⚡ Fun fact I am funny😅
 
 - 📫 How to reach me **guptarahulmath@gmail.com**
 
