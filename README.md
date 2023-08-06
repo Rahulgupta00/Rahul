@@ -59,18 +59,7 @@ Hello there! I'm Rahul Gupta, A passionate Software Engineer and Frontend . 🚀
 
 <div align="center">
 Happy coding! 😄
-	</div>
-
-
-<p align="center">
-	<img  align="center" src="https://github-readme-stats.vercel.app/api?username=sidharthhhh&theme=calm&show_icons=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthhhh&theme=calm&langs_count=15&layout=compact" />## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
-<div align="center">
-😜<b>Here's a Joke for you:</b>
 	
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-</div>
 
 
 
