@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
-<h3 align="center">A passionate Python and Frontend development from India</h3>
+<h3 align="center">A passionate Software Engineer and Frontend Developer  from India</h3>
+<img align="right"alt="coding"width="400"src="https://github.com/Rahulgupta00/Rahulgupta00/assets/121576126/9dd87878-3b84-46cc-bcf6-7de9808be657.gif">
+
 
 
 
