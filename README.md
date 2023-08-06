@@ -1,20 +1,3 @@
-<h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
-<h3 align="center">A passionate Software Engineer and Frontend Developer  from India</h3>
-<img align="right"alt="coding"width="400"src="![image](https://github.com/Rahulgupta00/Rahulgupta00/assets/121576126/e5f0604a-500f-4b20-bd13-5316ab1ce261)
-.gif">
-
-
-
-
-- 🌱 I’m currently learning **DJANGO, PYTHON**
-
-- 👯 I’m looking to collaborate on **In PYHON and DJANGO**
-
-- 💬 Ask me about **PYTHON , HTML , CSS, DJANGO, JAVASCRIPT**
-- 
-- ⚡ Fun fact I am funny😅
-
-- 📫 How to reach me **guptarahulmath@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +11,46 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulgupta00&show_icons=true&locale=en" alt="rahulgupta00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgupta00&" alt="rahulgupta00" /></p>
+
+</div>
+
+<div align="center">
+Happy coding! 😄
+	</div>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Technologies That I Know</b>
+<br>
+<!--tech stack icons-->
+<p align="center">
+  <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+<br/>
+
+<p align="center">
+	<img  align="center" src="https://github-readme-stats.vercel.app/api?username=sidharthhhh&theme=calm&show_icons=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthhhh&theme=calm&langs_count=15&layout=compact" />
+</p>
+## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
+<div align="center">
+😜<b>Here's a Joke for you:</b>
+	
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+</div>
+
+<div align="center">
+	
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidharthhhh&theme=dracula)
+
+</div>
+
+<h3 align="center">Just Visit my projects, if u like it then Give me stars</b><img src="https://media0.giphy.com/media/h8xIcGUhmbqH4Oot1n/giphy.gif?cid=ecf05e47auyqlxyh8p1kn3gmh78yp8syuf9od0jb4vkod00r&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"></h3>
+
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
 
