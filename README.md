@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
 <h3 align="center">A passionate Software Engineer and Frontend Developer  from India</h3>
-<img align="right"alt="coding"width="400"src="https://github.com/Rahulgupta00/Rahulgupta00/assets/121576126/9dd87878-3b84-46cc-bcf6-7de9808be657.gif">
+<img align="right"alt="coding"width="400"src="![image](https://github.com/Rahulgupta00/Rahulgupta00/assets/121576126/e5f0604a-500f-4b20-bd13-5316ab1ce261)
+.gif">
 
 
 
@@ -27,18 +28,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgupta00&" alt="rahulgupta00" /></p>
 
 
-## Technologies That I Know
 
-Here are some of the technologies and tools I'm proficient in:
-
-- HTML5
-- CSS3
-- JavaScript
-- Python  
-- Bootstrap
-- Git
-
-I have hands-on experience with these technologies and have used them in various projects. I'm continuously learning and exploring new technologies to expand my skillset.
-
-If you have any questions about these technologies or need assistance with projects related to them, feel free to reach out. I'm always eager to collaborate and contribute to exciting development endeavors.
 
